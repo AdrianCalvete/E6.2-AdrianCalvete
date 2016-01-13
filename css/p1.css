@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Determination";
+  font-style: normal;
+  font-weight: normal;
+  src: local("?"), url("../fonts/DeterminationSansWeb.woff") format("woff"), url("../fonts/DTM-Sans.otf") format("OpenType");
+}
+
+header{
+  font-family: "Determination",sans-serif;
+  background-color: black;
+  font-variant: small-caps;
+  color: rgb(255,255,255);
+  text-align: center;
+  padding: 5px;
+}
